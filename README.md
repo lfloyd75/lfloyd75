@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Lorraine Floyd
 **Program Analyst | Cloud & IAM | MSSA Candidate**
 
-I’m transitioning from IT management into cloud and cybersecurity engineering.  
-Currently completing the **Microsoft Software & Systems Academy (MSSA) – Server & Cloud Administrator track** with a focus on **Azure Hybrid Identity** and **IAM governance**.
+I’m transitioning from IT management into cloud and cybersecurity engineering with a focus on **Azure Hybrid Identity** and **IAM governance**.  
+Currently completing the **Microsoft Software & Systems Academy (MSSA) – Server & Cloud Administrator track**.
 
 ---
 
