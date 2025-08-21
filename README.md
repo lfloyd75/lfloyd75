@@ -9,7 +9,7 @@ Currently completing the **Microsoft Software & Systems Academy (MSSA) – Serve
 ## 🔧 Skills
 - **Cloud:** Azure, AWS (Cloud Practitioner Certified)  
 - **Identity & Security:** Active Directory, Entra ID, IAM, RBAC, Conditional Access  
-- **Scripting:** PowerShell, Python  
+- **Scripting:** PowerShell 
 - **Project Management:** ITIL, Agile, Service Delivery  
 
 ---
