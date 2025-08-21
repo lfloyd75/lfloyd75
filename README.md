@@ -37,7 +37,6 @@ Currently completing **MSSA (Server & Cloud Admin track)** and focusing on **Azu
 
 **Automation & Scripting:**  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-2560E0?logo=microsoft-azure&logoColor=white)
 ![Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azure-functions&logoColor=white)
 
