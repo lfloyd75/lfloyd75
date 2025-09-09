@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lorraine Floyd
+# Hi, I’m Lorraine Floyd
 **Program Analyst | Cloud & IAM | MSSA Candidate**
 
 I’m transitioning from IT management into cloud and cybersecurity engineering with a focus on **Azure Hybrid Identity** and **IAM governance**.  
@@ -6,7 +6,7 @@ Currently completing the **Microsoft Software & Systems Academy (MSSA) – Serve
 
 ---
 
-## 🔧 Skills
+## Skills
 - **Cloud:** Azure, AWS (Cloud Practitioner Certified)  
 - **Identity & Security:** Active Directory, Entra ID, IAM, RBAC, Conditional Access  
 - **Scripting:** PowerShell 
@@ -14,13 +14,12 @@ Currently completing the **Microsoft Software & Systems Academy (MSSA) – Serve
 
 ---
 
-## 🚀 Current Projects
-- *Hybrid Identity Lab* – On-prem AD + Entra ID sync with Conditional Access  
-- *Self-Healing Server Monitoring System* – Automation for health checks & alerts  
+## Current Projects
+- 
 
 ---
 
-## 🎓 Certifications
+## Certifications
 - AWS Cloud Practitioner  
 - CompTIA Security+  
 - CompTIA Network+  
@@ -28,6 +27,6 @@ Currently completing the **Microsoft Software & Systems Academy (MSSA) – Serve
 
 ---
 
-## 📫 Connect
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/lorraine-floyd75/)  
 - [GitHub Projects](https://github.com/lfloyd75)
